@@ -1,5 +1,3 @@
-ruby 2.1.2p95 (2014-05-08 revision 45877) [x86_64-darwin13.0]
-
 chapter_2
 
 Extra credit:
@@ -9,3 +7,8 @@ Extra credit:
   - Line 4 and 9, I intentionally used single quotes instead of double since there
     was no interpolation.
 - When I read my code out loud, I did not find any additional errors.
+
+
+Can you find a key combo in RubyMine to comment out a line of code?
+
+A. Use Command forward slash
